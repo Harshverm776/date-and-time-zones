@@ -44,7 +44,7 @@ In this article, I am going to cover the basics of date and time zones which is 
 
   Also, It is the solar time at 0 degree longitude i.e., Prime Meridian.  
 
-![Prime Meridian](https://cdn.britannica.com/63/2063-050-89E52B49/Perspective-globe-grid-parallels-meridians-longitude-latitude.jpg)  
+<img src="https://cdn.britannica.com/63/2063-050-89E52B49/Perspective-globe-grid-parallels-meridians-longitude-latitude.jpg" width="400">  
 
 * **UTC-**  
 UTC is the standard which is used world wide for the determination of time.  
