@@ -48,7 +48,7 @@ In this article, I am going to cover the basics of date and time zones which is 
 
 * **UTC-**  
 UTC is the standard which is used world wide for the determination of time.  
-***Like-*** ` UTC + 05:30 `  
+***Like-*** ` UTC + 05:30 ` is of India.  
 
 * **Time Zones-**  
 Earth is divided into different zones which uses same local time/ standard time.  
@@ -69,7 +69,7 @@ It is the practice of setting the clocks forward one hour from standard time dur
 ## 3. Note
 
 * UTC and GMT are almost same. Don't get confuse between them.  
-* Always use ISO instead of UTC because ISO also specify millisecond as well.  
+* Always use ISO instead of UTC because ISO also specify millisecond as well and it is the format which can easily transform.  
 
 * **Types of time-**  
   1. **Local**  
